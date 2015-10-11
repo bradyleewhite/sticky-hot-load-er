@@ -1,0 +1,22 @@
+{
+  "name": "sticky-hot-load-er",
+  "version": "0.0.0",
+  "description": "A Sticky Hot Load(er)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bradyleewhite/sticky-hot-load-er.git"
+  },
+  "author": "BradyLeeWhite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradyleewhite/sticky-hot-load-er/issues"
+  },
+  "devDependencies": {
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.0"
+  }
+}
